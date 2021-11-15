@@ -1,0 +1,3 @@
+Patricia Alonso del Real, Javier García Céspedes
+a051 
+Hemos realizado las cuatro mejoras propuestas, además hemos arreglado un fallo que teníamos a la hora de girar el terminal, haciendo que ahora se ajusten las ventanas en dispositivos grandes (iPhone 12 Pro por ejemplo) cuando giramos la pantalla.
